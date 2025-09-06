@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o André Cremutcho!
+# 👋 Olá, eu sou o Cremutcho!
 
 💻 Desenvolvedor em formação | 🚀 Apaixonado por tecnologia e aprendizado contínuo
 
